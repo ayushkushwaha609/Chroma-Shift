@@ -8,6 +8,8 @@
 
 4-The player can move using arrow keys and change their color using the spacebar
 
-5-The goal is to navigate through matching colors while avoiding black blocks
+5-The player can only move on the block that matches the current color shown at the bottom.
 
-6-The game tracks time and stores best times.
+6-The goal is to navigate through matching colors while avoiding black blocks
+
+7-The game tracks time and stores best times.
